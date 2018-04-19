@@ -1,0 +1,14 @@
+Latin Name: Polonium
+Discovered Year: 1898
+Boiling Point,degreecelsius: 962   
+Melting Point,degreecelsius: 254
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 9196
+Electrical  Type: Conductor 
+Valency: 6
+Electron Affinity,kj/mol: 183.3 
+Electronegativity: 2
+
+
+

@@ -1,0 +1,14 @@
+Latin Name: Plumbum
+Discovered Year: 4000 BC
+Boiling Point,degreecelsius: 1749  
+Melting Point,degreecelsius: 327.46
+Phase: Solid
+Colour: Slate gray
+Density,kg/cubicmeter: 11340 
+Electrical  Type: Conductor
+Valency: 4
+Electron Affinity,kj/mol: 35.1 
+Electronegativity: 2.33 
+
+
+

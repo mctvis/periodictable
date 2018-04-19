@@ -1,0 +1,14 @@
+Latin Name: Cobaltum
+Discovered Year: 1735
+Boiling Point,degreecelsius: 2927  
+Melting Point,degreecelsius: 1495
+Phase: Solid 
+Colour: Gray
+Density,kg/cubicmeter: 8900
+Electrical  Type: Conductor
+Valency: 4
+Electron Affinity,kj/mol: 63.7  
+Electonegativity: 1.88 
+
+
+

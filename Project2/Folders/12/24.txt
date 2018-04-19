@@ -1,0 +1,8 @@
+Latin Name: Copernicium
+Discovered Year: 1996
+Radioactive in nature.
+Half Life,seconds: 2400
+Lifetime,seconds: 3500 
+
+
+

@@ -1,0 +1,14 @@
+Latin Name: Aurum	
+Discovered Year: 2500 BC
+Boiling Point,degreecelsius: 2856 
+Melting Point,degreecelsius: 1064.18
+Phase: Solid
+Colour: Gold
+Density,kg/cubicmeter: 19300
+Electrical  Type: Conductor
+Valency: 5
+Electron Affinity,kj/mol: 222.8  
+Electronegativity: 2.54
+
+
+

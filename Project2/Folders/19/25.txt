@@ -1,0 +1,11 @@
+Latin Name:Samarium
+Discovered Year:1879
+Boiling Point,degreecelsius:1803   
+Melting Point,degreecelsius:1072
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:7353 
+Electrical Type:Conductor 
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:1.17 

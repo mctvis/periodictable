@@ -1,0 +1,9 @@
+Latin Name: Hassium
+Discovered Year: 1984
+Radioactive in nature.
+Halflife,seconds: 4000
+Lifetime,seconds: 5000 
+
+
+
+

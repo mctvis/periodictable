@@ -1,0 +1,10 @@
+Latin Name:Californium
+Discovered Year:1950
+Boiling Point,degreecelsius:   
+Melting Point,degreecelsius:900 
+Phase:Solid 
+Valency:4  
+Electronegativity:1.3 
+Radioactive in nature.
+Halflife,seconds:28400000000
+Lifetime,seconds:41000000000

@@ -1,0 +1,14 @@
+Latin Name: Zirconium
+Discovered Year: 1789
+Boiling Point,degreecelsius: 4409  
+Melting Point,degreecelsius: 1855
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 6511 
+Electrical  Type: Conductor
+Valency: 4
+Electron Affinity,kj/mol: 41.1  
+Electronegativity: 1.33
+
+
+

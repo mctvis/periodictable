@@ -1,0 +1,14 @@
+Latin Name: Vanadium 
+Discovered Year: 1801
+Boiling Point,degreecelsius: 3407  
+Melting Point,degreecelsius: 1910
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 6110 
+Electrical  Type: Conductor
+Valency: 5
+Electron Affinity,kj/mol: 50.6  
+Electronegativity: 1.63 
+
+
+

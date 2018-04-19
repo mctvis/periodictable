@@ -1,0 +1,14 @@
+Latin Name: Platinum
+Discovered Year: 1735
+Boiling Point,degreecelsius: 3825  
+Melting Point,degreecelsius: 1768.3
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 21090  
+Electrical  Type: Conductor 
+Valency: 6
+Electron Affinity,kj/mol: 205.3  
+Electronegativity: 2.28 
+
+
+

@@ -1,0 +1,12 @@
+Latin Name: Caesium
+Discovered Year: 1860
+Boiling Point,degreecelsius: 671  
+Melting Point,degreecelsius: 28.44
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 1879 
+Electrical  Type: Conductor
+Valency: 1
+Electron Affinity,kj/mol: 45.5  
+Electronegativity: 0.79
+

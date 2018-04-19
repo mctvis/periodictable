@@ -1,0 +1,11 @@
+Latin Name:Neodymium
+Discovered Year:1885
+Boiling Point,degreecelsius:3100   
+Melting Point,degreecelsius:1021 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:7010 
+Electrical Type:Conductor
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:1.14 

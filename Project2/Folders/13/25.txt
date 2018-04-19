@@ -1,0 +1,13 @@
+Latin Name: Thallium
+Discovered Year: 1861
+Boiling Point,degreecelsius: 1473  
+Melting Point,degreecelsius: 304
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 11850 
+Electrical  Type: Conductor
+Valency: 3
+Electron Affinity,kj/mol: 19.2  
+Electronegativity: 1.62
+
+

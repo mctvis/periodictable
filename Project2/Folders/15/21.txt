@@ -1,0 +1,14 @@
+Latin Name: Nitrogenium 
+Discovered Year: 1772
+Boiling Point,degreecelsius: -195.79 
+Melting Point,degreecelsius: -210.1
+Phase: Gas
+Colour: Colourless
+Density,kg/cubicmeter: 1.251
+Magnetic Type: Diamagnetic
+Valency: 3
+Electron Affinity,kj/mol: 7 
+Electronegativity: 3.04
+
+
+

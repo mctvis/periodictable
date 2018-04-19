@@ -1,0 +1,13 @@
+Latin Name: Fluorine
+Discovered Year: 1886
+Boiling Point,degreecelsius: -188.12  
+Melting Point,degreecelsius: -219.6
+Phase: Gas
+Colour: Colourless
+Density,kg/cubicmeter: 1.696 
+Electrical  Type: Non Conductor
+Valency: 1
+Electron Affinity,kj/mol: 328  
+Electronegativity: 3.98 
+
+

@@ -1,0 +1,11 @@
+Latin Name:Lutetium
+Discovered Year:1907
+Boiling Point,degreecelsius:3402   
+Melting Point,degreecelsius:1663 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:9841 
+Electrical Type:Conductor 
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:1.27 

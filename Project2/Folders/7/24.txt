@@ -1,0 +1,7 @@
+Latin Name: Bohrium
+Discovered Year: 1981
+Valency: 7
+Radioactive in nature.
+Halflife,seconds: 5400
+Lifetime,seconds: 7800
+

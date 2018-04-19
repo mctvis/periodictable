@@ -1,0 +1,10 @@
+Latin Name: Astatium
+Discovered Year: 1940
+Valency: 7
+Electron Affinity,kj/mol: 270.1 
+Electonegativity: 2.2
+Radioactive in nature.
+Halflife,seconds: 29000
+Lifetime,seconds:42000
+
+

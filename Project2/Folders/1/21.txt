@@ -1,0 +1,11 @@
+Latin Name: Hydrogenium	
+Discovered Year: 1766 
+Boiling Point,degreecelsius: -252.87 
+Melting Point,degreecelsius: -259.14 
+Phase: Gas
+Colour: Colourless
+Density,kg/cubicmeter: 0.0899 
+Magnetic Type: Diamagnetic 
+Valency: 1
+Electron Affinity,kj/mol: 72.8 
+Electronegativity: 2.2

@@ -1,0 +1,13 @@
+Latin Name: Radium
+Discovered Year: 1898
+Boiling Point,degreecelsius: 1737  
+Melting Point,degreecelsius: 700
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 5000 
+Electrical  Type: Conductor
+Valency: 2
+Electron Affinity,kj/mol: na 
+Electronegativity: 0.9
+
+

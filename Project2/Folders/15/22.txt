@@ -1,0 +1,14 @@
+Latin Name: Phosphorus 
+Discovered Year: 1669 
+Boiling Point,degreecelsius: 280.5 
+Melting Point,degreecelsius: 44.2
+Phase: Solid
+Colour: Colourless
+Density,kg/cubicmeter: 1823
+Electrical  Type: Conductor
+Valency: 5
+Electron Affinity,kj/mol: 72 
+Electronegativity: 2.19 
+
+
+

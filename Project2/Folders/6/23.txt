@@ -1,0 +1,14 @@
+Latin Name: Wolframium
+Discovered Year: 1783
+Boiling Point,degreecelsius: 5555  
+Melting Point,degreecelsius: 3422
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 19250
+Electrical  Type: Conductor
+Valency: 6
+Electron Affinity,kj/mol: 78.6  
+Electronegativity: 2.36
+
+
+

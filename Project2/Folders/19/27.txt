@@ -1,0 +1,11 @@
+Latin Name:Gadolinium	
+Discovered Year:1880
+Boiling Point,degreecelsius:3250   
+Melting Point,degreecelsius:1313 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:7901 
+Electrical Type:Conductor 
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:1.2 

@@ -1,0 +1,11 @@
+Latin Name:Proactinium
+Discovered Year:1913
+Boiling Point,degreecelsius:4000   
+Melting Point,degreecelsius:1572 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:15370 
+Electrical Type:Conductor 
+Valency:5 
+Electron Affinity,kj/mol:na 
+Electronegativity:1.5 

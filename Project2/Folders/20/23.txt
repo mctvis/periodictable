@@ -1,0 +1,11 @@
+Latin Name:Uranium
+Discovered Year:1789
+Boiling Point,degreecelsius:3297   
+Melting Point,degreecelsius:1135
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:19050 
+Electrical Type:Conductor 
+Valency:6 
+Electron Affinity,kj/mol:na  
+Electronegativity:1.38 

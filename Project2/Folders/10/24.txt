@@ -1,0 +1,8 @@
+Latin Name: Darmstadium 
+Discovered Year: 1994
+Radioactive in nature.
+Halflife,seconds: 240
+Lifetime,seconds: 350 
+
+
+

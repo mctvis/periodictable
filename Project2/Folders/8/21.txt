@@ -1,0 +1,14 @@
+Latin Name: Ferrum 
+Discovered Year: 2000 BC
+Boiling Point,degreecelsius: 2861  
+Melting Point,degreecelsius: 1538
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 7874 
+Electrical  Type: Conductor
+Valency: 3
+Electron Affinity,kj/mol: 15.7  
+Electronegativity: 1.83
+
+
+

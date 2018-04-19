@@ -1,0 +1,14 @@
+Latin Name: Bismuthum 
+Discovered Year: 1400
+Boiling Point,degreecelsius: 1564  
+Melting Point,degreecelsius: 271.3
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 9780 
+Electrical  Type: Conductor
+Valency: 5
+Electron Affinity,kj/mol: 91.2  
+Electronegativity: 2.02 
+
+
+

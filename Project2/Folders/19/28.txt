@@ -1,0 +1,11 @@
+Latin Name:Terbium
+Discovered Year:1843
+Boiling Point,degreecelsius:3230   
+Melting Point,degreecelsius:1356 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:8219 
+Electrical Type:Conductor 
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:na 

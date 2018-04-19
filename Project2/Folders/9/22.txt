@@ -1,0 +1,14 @@
+Latin Name: Rhodium
+Discovered Year: 1803 
+Boiling Point,degreecelsius: 3695 
+Melting Point,degreecelsius: 1964
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 12450 
+Electrical  Type: Conductor
+Valency: 6
+Electron Affinity,kj/mol: 109.7 
+Electonegativity: 2.28
+
+
+

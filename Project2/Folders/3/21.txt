@@ -1,0 +1,13 @@
+Latin Name: Scandium
+Discovered Year: 1879 
+Boiling Point,degreecelsius: 2830  
+Melting Point,degreecelsius: 1541
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 2985 
+Electrical  Type: Conductor
+Valency: 3
+Electron Affinity,kj/mol: 18.1  
+Electronegativity: 1.36
+
+

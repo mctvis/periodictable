@@ -1,0 +1,14 @@
+Latin Name: Ruthenium 
+Discovered Year: 1844 
+Boiling Point,degreecelsius: 4150  
+Melting Point,degreecelsius: 2334
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 12370
+Electrical  Type: Conductor
+Valency: 6
+Electron Affinity,kj/mol: 101.3 
+Electronegativity: 2.2
+
+
+

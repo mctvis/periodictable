@@ -1,0 +1,14 @@
+Latin Name: Oxygenium
+Discovered Year: 1774
+Boiling Point,degreecelsius: -182.9  
+Melting Point,degreecelsius: -218.3
+Phase: Gas
+Colour: Colourless
+Density,kg/cubicmeter: 1.429 
+Magnetic Type: Paramagnetic 
+Valency: 2
+Electron Affinity,kj/mol: 141  
+Electronegativity: 3.44
+
+
+

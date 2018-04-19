@@ -1,0 +1,11 @@
+Latin Name: Natrium  
+Discovered Year: 1807
+Boiling Point,degreecelsius: 883  
+Melting Point,degreecelsius: 97.72 
+Phase: Solid
+Colour: Silver
+Density, kg/cubicmeter: 968
+Electrical Type: Conductor
+Valency: 1
+Electron Affinity, kj/mol: 52.8 
+Electronegativity: 0.93

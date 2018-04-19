@@ -1,0 +1,14 @@
+Latin Name: Technetium
+Discovered Year: 1937
+Boiling Point,degreecelsius: 4265 
+Melting Point,degreecelsius:2157
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter:11500 
+Electrical  Type: Conductor
+Valency: 7
+Electron Affinity,kj/mol: 53  
+Electronegativity: 1.9 
+
+
+

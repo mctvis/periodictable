@@ -1,0 +1,8 @@
+Latin Name: Rutherfordium
+Discovered Year: 1964
+Valency: 4 
+Radioactive in nature.
+Halflife,seconds: 47000
+Lifetime,seconds: 68000
+
+

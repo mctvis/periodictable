@@ -1,0 +1,8 @@
+Latin Name: Flerovium
+Discovered Year: 1998
+Radioactive in nature.
+Halflife,seconds: 80
+Lifetime,seconds: 120 
+
+
+

@@ -1,0 +1,14 @@
+Latin Name: Hafnium
+Discovered Year: 1923
+Boiling Point,degreecelsius: 4603  
+Melting Point,degreecelsius: 2233
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 13310 
+Electrical  Type: Conductor
+Valency: 4
+Electron Affinity,kj/mol: 0  
+Electronegativity: 1.3
+
+
+

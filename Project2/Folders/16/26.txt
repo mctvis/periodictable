@@ -1,0 +1,8 @@
+Latin Name: Livermorium
+Discovered Year: 2000
+Radioactive in nature.
+Halflife,seconds: 0.12
+Lifetime,seconds: 0.173
+
+
+

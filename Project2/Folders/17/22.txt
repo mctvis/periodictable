@@ -1,0 +1,14 @@
+Latin Name: Chlorum
+Discovered Year: 1774
+Boiling Point,degreecelsius: -34.04  
+Melting Point,degreecelsius: -101.5
+Phase: Gas
+Colour: Yellow
+Density,kg/cubicmeter: 3.214
+Electrical  Type: Insulator
+Valency: 1
+Electron Affinity,kj/mol: 349  
+Electronegativity: 3.16
+
+
+

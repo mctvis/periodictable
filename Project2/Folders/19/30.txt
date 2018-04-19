@@ -1,0 +1,11 @@
+Latin Name:Holmium
+Discovered Year:1878
+Boiling Point,degreecelsius:2700   
+Melting Point,degreecelsius:1474 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:8795 
+Electrical Type:Conductor 
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:1.23 

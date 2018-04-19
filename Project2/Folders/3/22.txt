@@ -1,0 +1,13 @@
+Latin Name: Yttrium
+Discovered Year: 1794
+Boiling Point,degreecelsius: 3345 
+Melting Point,degreecelsius: 1526
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter:  4472
+Electrical  Type: Conductor
+Valency: 3
+Electron Affinity,kj/mol: 29.6  
+Electronegativity: 1.22
+
+

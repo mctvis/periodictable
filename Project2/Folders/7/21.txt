@@ -1,0 +1,14 @@
+Latin Name: Manganum
+Discovered Year: 1774
+Boiling Point,degreecelsius: 2061  
+Melting Point,degreecelsius: 1246
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 7470
+Electrical  Type: Conductor
+Valency: 4
+Electron Affinity,kj/mol: 0  
+Electronegativity: 1.55
+
+
+

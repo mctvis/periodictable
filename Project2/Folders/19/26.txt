@@ -1,0 +1,11 @@
+Latin Name:Europium
+Discovered Year:1901
+Boiling Point,degreecelsius:1527   
+Melting Point,degreecelsius:822 
+Phase:Solid 
+Colour:Silver
+Density,kg/cubicmeter:5244 
+Electrical Type:Conductor 
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:na 

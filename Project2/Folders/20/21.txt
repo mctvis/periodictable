@@ -1,0 +1,11 @@
+Latin Name:Thorium
+Discovered Year:1829
+Boiling Point,degreecelsius:4820   
+Melting Point,degreecelsius:1750 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:11724 
+Electrical Type:Conductor 
+Valency:4 
+Electron Affinity,kj/mol:na  
+Electronegativity:1.3 

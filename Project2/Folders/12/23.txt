@@ -1,0 +1,14 @@
+Latin Name: Hydrargyrum	
+Discovered Year: 1500 BC
+Boiling Point,degreecelsius: 356.73 
+Melting Point,degreecelsius:-38.83
+Phase: Liquid
+Colour: Silver
+Density,kg/cubicmeter: 13534
+Electrical  Type: Conductor
+Valency: 2
+Electron Affinity,kj/mol: 0 
+Electronegativity: 2
+
+
+

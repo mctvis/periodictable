@@ -1,0 +1,14 @@
+Latin Name: Chromium
+Discovered Year: 1797
+Boiling Point,degreecelsius: 2671  
+Melting Point,degreecelsius: 1907
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 7140 
+Electrical  Type: Conductor
+Valency: 6
+Electron Affinity,kj/mol: 64.3  
+Electronegativity: 1.66
+
+
+

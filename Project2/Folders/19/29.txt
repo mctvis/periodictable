@@ -1,0 +1,11 @@
+Latin Name:Dyprosium
+Discovered Year:1886
+Boiling Point,degreecelsius:2567   
+Melting Point,degreecelsius:1412 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:8551 
+Electrical Type:Conductor 
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:1.22 

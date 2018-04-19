@@ -1,0 +1,11 @@
+Latin Name:Thulium
+Discovered Year:1879
+Boiling Point,degreecelsius:1950   
+Melting Point,degreecelsius:1545 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:9321 
+Electrical Type:Conductor 
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:1.25 

@@ -1,0 +1,10 @@
+Latin Name: Seaborgium
+Discovered Year: 1974
+Valency: 6 
+Radioactive in nature.
+Halflife,seconds: 7000
+Lifetime,seconds: 10000 
+
+
+
+

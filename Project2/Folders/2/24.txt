@@ -1,0 +1,13 @@
+Latin Name: Strontium
+Discovered Year: 1790
+Boiling Point,degreecelsius: 1382  
+Melting Point,degreecelsius: 777
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 2630
+Electrical  Type: Conductor
+Valency: 2
+Electron Affinity,kj/mol: 5.03  
+Electronegativity: 0.95
+
+

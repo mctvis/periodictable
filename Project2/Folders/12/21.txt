@@ -1,0 +1,14 @@
+Latin Name: Zincum
+Discovered Year: 1500
+Boiling Point,degreecelsius: 907  
+Melting Point,degreecelsius: 419.53
+Phase: Solid
+Colour: Slate Gray
+Density,kg/cubicmeter: 7140
+Electrical  Type: Conductor
+Valency: 2
+Electron Affinity,kj/mol: 0  
+Electronegativity: 1.65
+
+
+

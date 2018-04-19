@@ -1,0 +1,14 @@
+Latin Name: Arsenicium
+Discovered Year: 1250
+Boiling Point,degreecelsius: 614 
+Melting Point,degreecelsius: 817
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 5727
+Electrical  Type: Conductor
+Valency: 5
+Electron Affinity,kj/mol: 78  
+Electronegativity: 2.18
+
+
+

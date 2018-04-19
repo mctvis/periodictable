@@ -1,0 +1,11 @@
+Latin Name:Ytterbium
+Discovered Year:1878
+Boiling Point,degreecelsius:1196   
+Melting Point,degreecelsius:819 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:6570 
+Electrical Type:Conductor
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:na 

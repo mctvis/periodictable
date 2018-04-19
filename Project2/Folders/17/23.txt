@@ -1,0 +1,14 @@
+Latin Name: Bromum
+Discovered Year: 1826
+Boiling Point,degreecelsius: 59  
+Melting Point,degreecelsius: -7.3
+Phase: Liquid
+Colour: Red
+Density,kg/cubicmeter: 3120
+Electrical  Type: Insulator
+Valency: 7
+Electron Affinity,kj/mol: 324.6  
+Electronegativity: 2.96 
+
+
+

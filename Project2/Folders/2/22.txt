@@ -1,0 +1,12 @@
+Latin Name: Magnesium
+Discovered Year: 1755 
+Boiling Point,degreecelsius: 1090  
+Melting Point,degreecelsius: 650
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 1738 
+Electrical  Type: Conductor
+Valency: 2
+Electron Affinity,kj/mol: 0  
+Electronegativity: 1.31
+

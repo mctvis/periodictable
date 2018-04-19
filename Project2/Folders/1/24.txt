@@ -1,0 +1,12 @@
+Latin Name: Kalium
+Discovered Year: 1807
+Boiling Point,degreecelsius: 759 
+Melting Point,degreecelsius: 63.38 
+Phase: Solid
+Colour: Silver 
+Density,kg/cubicmeter: 856 
+Electrical Type: Conductor
+Valency: 1
+Electron Affinity, kj/mol: 48.4
+Electronegativity: 0.82
+

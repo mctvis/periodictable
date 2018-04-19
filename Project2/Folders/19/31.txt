@@ -1,0 +1,11 @@
+Latin Name:Erbium
+Discovered Year:1842
+Boiling Point,degreecelsius:2862   
+Melting Point,degreecelsius:1497 
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:9066 
+Electrical Type:Conductor 
+Valency:3 
+Electron Affinity,kj/mol:50  
+Electronegativity:1.24 

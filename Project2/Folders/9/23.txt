@@ -1,0 +1,14 @@
+Latin Name: Iridium
+Discovered Year: 1803
+Boiling Point,degreecelsius: 4428 
+Melting Point,degreecelsius: 2466
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 22650 
+Electrical  Type: Conductor
+Valency: 6
+Electron Affinity,kj/mol: 151 
+Electonegativity: 2.2 
+
+
+

@@ -1,0 +1,14 @@
+Latin Name: Cuprum
+Discovered Year: 8000BC
+Boiling Point,degreecelsius: 2927  
+Melting Point,degreecelsius: 1084.62
+Phase: Solid
+Colour: Copper
+Density,kg/cubicmeter: 8920  
+Electrical  Type: Conductor
+Valency: 2
+Electron Affinity,kj/mol: 118.4  
+Electronegativity: 1.9
+
+
+

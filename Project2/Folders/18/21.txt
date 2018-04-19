@@ -1,0 +1,13 @@
+Latin Name: Helium
+Discovered Year: 1895
+Boiling Point,degreecelsius: -268.93  
+Melting Point,degreecelsius:
+Phase: Gas
+Colour: Colourless
+Density,kg/cubicmeter: 0.1785 
+Magnetic Type: Diamagnetic
+Valency: 0
+Electron Affinity,kj/mol: 0
+Electronegativity: 0
+
+

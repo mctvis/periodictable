@@ -1,0 +1,14 @@
+Latin Name: Gallium
+Discovered Year: 1875
+Boiling Point,degreecelsius: 2204 
+Melting Point,degreecelsius: 29.76
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 5904 
+Electrical  Type: Conductor
+Valency: 3
+Electron Affinity,kj/mol: 28.9  
+Electronegativity: 1.81 
+
+
+

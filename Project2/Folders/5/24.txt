@@ -1,0 +1,9 @@
+Latin Name: Dubnium
+Discovered Year: 1967 
+Valency: 5
+Radioactive in nature.
+Halflife,seconds: 20000
+Lifetime,seconds: 30000
+
+
+

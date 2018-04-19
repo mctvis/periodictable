@@ -1,0 +1,14 @@
+Latin Name: Aluminium
+Discovered Year: 1825
+Boiling Point,degreecelsius: 2519  
+Melting Point,degreecelsius: 660.32
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 2700
+Electrical  Type: Conductor
+Valency: 3
+Electron Affinity,kj/mol: 42.5  
+Electronegativity: 1.61 
+
+
+

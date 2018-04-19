@@ -1,0 +1,9 @@
+Latin Name: Roentgenium
+Discovered Year: 1994
+Radioactive in nature.
+Half-Life,seconds: 600 
+Lifetime,seconds: 870
+
+
+
+

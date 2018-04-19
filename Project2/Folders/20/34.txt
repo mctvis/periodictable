@@ -1,0 +1,7 @@
+Latin Name:Lowrencium
+Discovered Year:1961
+Boiling Point,degreecelsius:na   
+Melting Point,degreecelsius:1627 
+Radioactive in nature.
+Halflife,seconds:36000
+Lifetime,seconds:52000

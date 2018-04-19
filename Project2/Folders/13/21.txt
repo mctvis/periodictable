@@ -1,0 +1,14 @@
+Latin Name: Borum 
+Discovered Year: 1808
+Boiling Point,degreecelsius: 4000  
+Melting Point,degreecelsius: 2075
+Phase: Solid
+Colour: Black
+Density,kg/cubicmeter: 2460 
+Electrical  Type: Insulator
+Valency: 3
+Electron Affinity,kj/mol: 26.7  
+Electronegativity: 2.04 
+
+
+

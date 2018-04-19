@@ -1,0 +1,11 @@
+Latin Name: Lithium
+Discovered Year: 1817
+Boiling Point,degreecelsius: 1342 
+Melting Point,degreecelsius: 180.54 
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 535 
+Electrical Type: Conductor
+Valency: 1
+Electron Affinity,kj/mol: 59.6 
+Electronegativity: 0.98

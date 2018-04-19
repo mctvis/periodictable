@@ -1,0 +1,14 @@
+Latin Name: Niobium
+Discovered Year: 1801 
+Boiling Point,degreecelsius: 4744 
+Melting Point,degreecelsius: 2477
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 8570 
+Electrical  Type: Conductor 
+Valency: 5
+Electron Affinity,kj/mol: 86.1  
+Electronegativity: 1.6
+
+
+

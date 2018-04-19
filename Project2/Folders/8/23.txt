@@ -1,0 +1,14 @@
+Latin Name: Osmium 
+Discovered Year: 1803
+Boiling Point,degreecelsius: 5012  
+Melting Point,degreecelsius: 3033
+Phase: Solid
+Colour: Slate gray
+Density,kg/cubicmeter: 22610 
+Electrical  Type: Conductor
+Valency: 6
+Electron Affinity,kj/mol: 106.1  
+Electronegativity: 2.2
+
+
+

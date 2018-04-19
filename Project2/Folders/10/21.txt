@@ -1,0 +1,14 @@
+Latin Name: Niccolum
+Discovered Year: 1751
+Boiling Point,degreecelsius: 2913 
+Melting Point,degreecelsius: 1455
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 8908
+Electrical  Type: Conductor 
+Valency: 2
+Electron Affinity,kj/mol: 112  
+Electronegativity: 1.91
+
+
+

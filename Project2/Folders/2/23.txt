@@ -1,0 +1,13 @@
+Latin Name: Calcium
+Discovered Year: 1808 
+Boiling Point,degreecelsius: 1484  
+Melting Point,degreecelsius: 842
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 1550  
+Electrical  Type: Conductor
+Valency: 2
+Electron Affinity,kj/mol: 2.37 
+Electronegativity: 1
+
+

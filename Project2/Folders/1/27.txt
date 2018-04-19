@@ -1,0 +1,12 @@
+Latin Name: Francium
+Discovered Year: 1939
+Boiling Point,degreecelsius:  NA 
+Melting Point,degreecelsius: NA
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: NA 
+Electrical  Type: NA 
+Valency: 1
+Electron Affinity,kj/mol: NA  
+Electronegativity: 0.7
+

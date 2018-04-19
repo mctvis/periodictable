@@ -1,0 +1,13 @@
+Latin Name: Krypton
+Discovered Year: 1898
+Boiling Point,degreecelsius: -153,22
+Melting Point,degreecelsius: -157,36
+Phase: Gas
+Colour: Colourless
+Density,kg/cubicmeter:  
+Magnetic Type: Diamagnetic  
+Valency: 2
+Electron Affinity,kj/mol: 0  
+Electronegativity: 3 
+
+

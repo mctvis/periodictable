@@ -1,0 +1,11 @@
+Latin Name:Praseodymium
+Discovered Year:1885
+Boiling Point,degreecelsius:3290   
+Melting Point,degreecelsius:931 
+Phase:Solid
+Colour:Silver 
+Density,kg/cubicmeter:6640
+Electrical Type:Conductor
+Valency:4 
+Electron Affinity,kj/mol:50  
+Electronegativity:1.13 

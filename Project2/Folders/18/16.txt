@@ -1,0 +1,14 @@
+Latin Name: Radon
+Discovered Year: 1900
+Boiling Point,degreecelsius: -61.7  
+Melting Point,degreecelsius: -71
+Phase: Gas
+Colour: Colourless
+Density,kg/cubicmeter: 9.73 
+Electrical  Type: 
+Valency: 6
+Electron Affinity,kj/mol: 0 
+Electronegativity: 
+
+
+

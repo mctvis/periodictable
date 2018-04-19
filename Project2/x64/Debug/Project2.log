@@ -1,0 +1,37 @@
+﻿Build started 7/29/2015 12:18:31 AM.
+     1>Project "C:\Users\Avash\Documents\Visual Studio 2012\Projects\mainprojecttest1\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt afbau.cpp click.cpp drawingtable.cpp file.cpp file1.cpp file3.cpp ghumauney.cpp hover.cpp hoverclick.cpp Source.cpp tabs.cpp
+         tabs.cpp
+         Source.cpp
+         hoverclick.cpp
+         hover.cpp
+         ghumauney.cpp
+         file3.cpp
+         file1.cpp
+         file.cpp
+         drawingtable.cpp
+         click.cpp
+         afbau.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /l"0x0409" /nologo /fo"x64\Debug\Project2.res" Project2.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Avash\Documents\Visual Studio 2012\Projects\mainprojecttest1\x64\Debug\Project2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "allegro-5.0.10-monolith-md-debug.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Avash\Documents\Visual Studio 2012\Projects\mainprojecttest1\x64\Debug\Project2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Avash\Documents\Visual Studio 2012\Projects\mainprojecttest1\x64\Debug\Project2.lib" /MACHINE:X64 x64\Debug\Project2.res
+         x64\Debug\afbau.obj
+         x64\Debug\click.obj
+         x64\Debug\drawingtable.obj
+         x64\Debug\file.obj
+         x64\Debug\file1.obj
+         x64\Debug\file3.obj
+         x64\Debug\ghumauney.obj
+         x64\Debug\hover.obj
+         x64\Debug\hoverclick.obj
+         x64\Debug\Source.obj
+         x64\Debug\tabs.obj
+     1>LINK : fatal error LNK1104: cannot open file 'allegro-5.0.10-monolith-md-debug.lib'
+     1>Done Building Project "C:\Users\Avash\Documents\Visual Studio 2012\Projects\mainprojecttest1\Project2\Project2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:39.25

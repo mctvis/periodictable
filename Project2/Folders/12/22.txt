@@ -1,0 +1,14 @@
+Latin Name: Cadmium
+Discovered Year: 1817
+Boiling Point,degreecelsius: 767   
+Melting Point,degreecelsius: 321.07
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 8650  
+Electrical  Type: Conductor 
+Valency: 2
+Electron Affinity,kj/mol: 0  
+Electronegativity: 1.69 
+
+
+

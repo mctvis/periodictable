@@ -1,0 +1,13 @@
+Latin Name: Neon 
+Discovered Year: 1898
+Boiling Point,degreecelsius:  -246.8
+Melting Point,degreecelsius: -248.59
+Phase: Gas
+Colour: Colourless
+Density,kg/meter: 0.9 
+Magnetic Type: Diamagnetic 
+Valency: 0
+Electron Affinity,kj/mol: 0
+Electronegativity: 0
+
+

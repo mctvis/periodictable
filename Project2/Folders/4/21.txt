@@ -1,0 +1,14 @@
+Latin Name: Titanium
+Discovered Year: 1791
+Boiling Point,degreecelsius: 3287  
+Melting Point,degreecelsius: 1668
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 4507 
+Electrical  Type: Conductor
+Valency: 4
+Electron Affinity,kj/mol: 7.6 
+Electronegativity: 1.54
+
+
+

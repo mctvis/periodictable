@@ -1,0 +1,11 @@
+Latin Name:Cerium
+Discovered Year:1803	
+Boiling Point,degreecelsius:3360  
+Melting Point,degreecelsius:798
+Phase:Solid 
+Colour:Silver 
+Density,kg/cubicmeter:6689
+Electrical Type:Conductor
+Valency:4 
+Electron Affinity,kj/mol:50  
+Electronegativity:1.12 

@@ -1,0 +1,7 @@
+Latin Name: Radon
+Discovery Year: 1900
+Valency: 6
+Electron Affinity,kJ/mol:0
+Radioactive in Nature.
+Half Life,seconds: 330350
+Life Time: 476590 

@@ -1,0 +1,14 @@
+Latin Name: Rhenium
+Discovered Year: 1925
+Boiling Point,degreecelsius: 5596  
+Melting Point,degreecelsius: 3186
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 21020 
+Electrical  Type: Conductor
+Valency: 7
+Electron Affinity,kj/mol: 14.5  
+Electronegativity: 1.9 
+
+
+

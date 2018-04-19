@@ -1,0 +1,14 @@
+Latin Name: Stannum
+Discovered Year: 3000 BC
+Boiling Point,degreecelsius: 2602 
+Melting Point,degreecelsius: 231.93
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 7310 
+Electrical  Type: Conductor
+Valency: 4
+Electron Affinity,kj/mol: 107.3  
+Electronegativity: 1.96
+
+
+

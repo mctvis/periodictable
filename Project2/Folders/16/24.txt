@@ -1,0 +1,14 @@
+Latin Name: Tellurium
+Discovered Year: 1783
+Boiling Point,degreecelsius: 988  
+Melting Point,degreecelsius: 449.51
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 6240
+Electrical  Type: Semiconductor
+Valency: 2.1
+Electron Affinity,kj/mol: 190.2  
+Electronegativity: 2.1
+
+
+

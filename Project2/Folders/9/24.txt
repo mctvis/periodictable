@@ -1,0 +1,8 @@
+Latin Name: Meitnerium
+Discovered Year: 1982
+Radioactive in nature.
+Halflife,seconds: 1800
+Lifetime,seconds: 2600 
+
+
+

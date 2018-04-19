@@ -1,0 +1,14 @@
+Latin Name: Silicium 
+Discovered Year: 1824
+Boiling Point,degreecelsius: 2900  
+Melting Point,degreecelsius:1414
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 2330  
+Electrical  Type: Semicinductor 
+Valency: 4
+Electron Affinity,kj/mol: 133.6  
+Electronegativity: 1.9
+
+
+

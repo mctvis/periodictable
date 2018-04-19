@@ -1,0 +1,12 @@
+Latin Name: Rubidium
+Discovered Year: 1861
+Boiling Point,degreecelsius: 688 
+Melting Point,degreecelsius: 39.31
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 1532
+Electrical  Type: Conductor
+Valency: 1
+Electron Affinity,kj/mol: 46.9 
+Electronegativity: 0.82
+

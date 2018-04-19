@@ -1,0 +1,14 @@
+Latin Name: Selenium
+Discovered Year: 1817
+Boiling Point,degreecelsius: 685 
+Melting Point,degreecelsius: 221
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter:  4819
+Magnetic Type: Diamagnetic 
+Valency: 6
+Electron Affinity,kj/mol: 195  
+Electronegativity: 2.55
+
+
+

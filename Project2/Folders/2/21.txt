@@ -1,0 +1,13 @@
+Latin Name: Beryllium
+Discovered Year: 1797
+Boiling Point,degreecelsius: 2470 
+Melting Point,degreecelsius: 1287
+Phase: Solid
+Colour: Slate gray
+Density,kg/cubicmeter: 1848 
+Electrical  Type: Conductor
+Valency: 2
+Electron Affinity,kj/mol: 0  
+Electronegativity: 1.57
+
+

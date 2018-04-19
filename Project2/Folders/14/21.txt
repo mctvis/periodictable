@@ -1,0 +1,14 @@
+Latin Name: Carboneum
+Discovered Year: Prehistoric
+Boiling Point,degreecelsius: 4027  
+Melting Point,degreecelsius: 3550
+Phase: Solid
+Colour: Black
+Density,kg/cubicmeter: 2260
+Electrical  Type: Conductor
+Valency: 4
+Electron Affinity,kj/mol: 153.9  
+Electronegativity: 2.55 
+
+
+

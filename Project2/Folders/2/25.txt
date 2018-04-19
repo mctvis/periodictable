@@ -1,0 +1,13 @@
+Latin Name: Barium
+Discovered Year: 1808
+Boiling Point,degreecelsius: 1870  
+Melting Point,degreecelsius: 727
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 3510 
+Electrical  Type: Conductor
+Valency: 2
+Electron Affinity,kj/mol: 13.95  
+Electronegativity: 0.89
+
+

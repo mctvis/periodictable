@@ -1,0 +1,13 @@
+Latin Name: 
+Discovered Year: 
+Boiling Point,degreecelsius:  
+Melting Point,degreecelsius:
+Phase: 
+Colour: 
+Density,kg/cubicmeter: 
+Electrical  Type: 
+Valency: 
+Electron Affinity,kj/mol:  
+Electronegativity: 
+
+

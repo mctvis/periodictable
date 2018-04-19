@@ -1,0 +1,14 @@
+Latin Name: Iodum
+Discovered Year: 1811
+Boiling Point,degreecelsius: 184.3  
+Melting Point,degreecelsius: 113.7
+Phase: Solid
+Colour: Slate gray
+Density,kg/cubicmeter: 4940 
+Electrical  Type: Insulator
+Valency: 7
+Electron Affinity,kj/mol: 295.2 
+Electronegativity: 2.66
+
+
+

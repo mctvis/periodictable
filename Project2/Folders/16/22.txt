@@ -1,0 +1,14 @@
+Latin Name: Sulfur 
+Discovered Year: 500 BC
+Boiling Point,degreecelsius: 444.72  
+Melting Point,degreecelsius:115.21
+Phase: Solid
+Colour: Yellow
+Density,kg/cubicmeter: 1960
+Electrical  Type: Insulator
+Valency: 6
+Electron Affinity,kj/mol: 200  
+Electronegativity: 2.58 
+
+
+

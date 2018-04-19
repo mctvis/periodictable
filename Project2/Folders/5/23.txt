@@ -1,0 +1,14 @@
+Latin Name: Tantalum
+Discovered Year: 1802
+Boiling Point,degreecelsius: 5458  
+Melting Point,degreecelsius: 3017
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 16650 
+Electrical  Type: Conductor
+Valency: 5
+Electron Affinity,kj/mol: 31  
+Electronegativity: 1.5 
+
+
+

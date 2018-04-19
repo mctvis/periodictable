@@ -1,0 +1,14 @@
+Latin Name: Argentum
+Discovered Year: 3000BC
+Boiling Point,degreecelsius: 2162  
+Melting Point,degreecelsius: 961.78
+Phase: Solid
+Colour: Silver 
+Density,kg/cubicmeter: 10490
+Electrical  Type: Conductor 
+Valency: 1
+Electron Affinity,kj/mol: 125.6  
+Electronegativity: 1.93 
+
+
+

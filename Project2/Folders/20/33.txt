@@ -1,0 +1,7 @@
+Latin Name:Nobelium
+Discovered Year:1958
+Boiling Point,degreecelsius:   
+Melting Point,degreecelsius:827 
+Radioactive in nature.
+Halflime,seconds:10000
+Lifetime,seconds:20000

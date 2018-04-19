@@ -1,0 +1,5 @@
+Latin Name: Ununoctium
+Discovery Year: 2006
+Radioactive in Nature.
+Halflife,seconds: 0.005
+Lifetime,seconds; 0.007

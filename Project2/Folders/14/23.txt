@@ -1,0 +1,14 @@
+Latin Name: Germanium
+Discovered Year: 1886
+Boiling Point,degreecelsius: 2820  
+Melting Point,degreecelsius: 938.3
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 5323 
+Electrical  Type: Semiconductor
+Valency: 4
+Electron Affinity,kj/mol: 119  
+Electronegativity: 2.01 
+
+
+

@@ -1,0 +1,14 @@
+Latin Name: Stibium
+Discovered Year: 3000 BC
+Boiling Point,degreecelsius: 1587 
+Melting Point,degreecelsius: 630.63
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 6697 
+Electrical  Type: Conductor
+Valency: 5
+Electron Affinity,kj/mol: 103.2 
+Electronegativity: 2.05 
+
+
+

@@ -1,0 +1,8 @@
+Latin Name: Ununtrium
+Discovered Year: 2004
+Radioactive in nature.
+Halflife,seconds: 1200
+Lifetime,seconds: 1700 
+
+
+

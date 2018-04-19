@@ -1,0 +1,14 @@
+Latin Name: Palladium
+Discovered Year: 1803
+Boiling Point,degreecelsius: 2963  
+Melting Point,degreecelsius: 1554.9
+Phase: Solid
+Colour: Silver
+Density,kg/cubicmeter: 12023 
+Electrical  Type: Conductor
+Valency: 4
+Electron Affinity,kj/mol: 53.7  
+Electronegativity: 2.2
+
+
+

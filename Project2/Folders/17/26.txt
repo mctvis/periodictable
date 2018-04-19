@@ -1,0 +1,7 @@
+Latin Name: Ununseptium
+Discovered Year: 2010
+Radioactive in nature.
+Halflife,seconds: 0.05
+Lifetime,seconds: 0.072
+
+

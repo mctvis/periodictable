@@ -1,0 +1,14 @@
+Latin Name: Molybdaenum
+Discovered Year: 1781
+Boiling Point,degreecelsius: 4639 
+Melting Point,degreecelsius: 2623
+Phase: Solid
+Colour: Gray
+Density,kg/cubicmeter: 10280 
+Electrical  Type: Conductor
+Valency: 6
+Electron Affinity,kj/mol: 71.9  
+Electronegativity: 2.16
+
+
+
